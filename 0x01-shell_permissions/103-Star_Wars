@@ -1,2 +1,2 @@
 #!/bin/bash
-Chown -h Vincent:staff _hello
+telent towel.blinkenlights.nl
