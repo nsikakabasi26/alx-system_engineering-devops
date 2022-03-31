@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod RTFM hello
+chmod u+x hello
