@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n l lacta | cat >> lacta
+echo -en "" | tail --lines=1 iacta >> iacta
